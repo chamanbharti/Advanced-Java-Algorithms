@@ -1,7 +1,6 @@
 package algorithm_tests;
 
 import algorithms.Sorting_algorithms;
-
 import java.util.Scanner;
 
 public class InsetionSort_Test {
