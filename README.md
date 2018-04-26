@@ -1,2 +1,2 @@
 # Advanced-Java-Algorithms
-Implementations of Algorithms found in 'Introduction to Algorithms 3rd Edition' and 'Advanced-Topics-in-Java-Core-Concepts-in-Data-Structures-Noel-Kalicharan' books. Please do feel free to contribute to this repository. Suggestions and modifications (if need be) are highly appreciated.
+Implementations of Algorithms found in 'Introduction to Algorithms 3rd Edition' and 'Advanced-Topics-in-Java-Core-Concepts-in-Data-Structures-Noel-Kalicharan' books. From basic concepts and OOP techniques to advanced OOP techniques used during implemenatation. Please do feel free to contribute to this repository. Suggestions, modifications (if need be) and additions of algorithms are highly appreciated. 
